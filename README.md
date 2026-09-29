@@ -1,4 +1,4 @@
-# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+﻿# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
 
@@ -22,6 +22,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Videos](#videos)
   - [Projects(Beginner level)](#projectsbeginner-level)
   - [Newsletters](#newsletters)
+  - [Jobs](#jobs)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -77,11 +78,15 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 - [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
 - [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
+- [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
+- [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
 ## Boilerplates
 
+- [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
+- [Next.js, Strapi Portfolio Starter](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 - [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 - [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
@@ -131,6 +136,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 - [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+- [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
+- [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 - [TurboStarter](https://turbostarter.dev) - Production-ready SaaS starter with Next.js web app, Expo mobile, and browser extension in a unified monorepo. Auth, billing, organizations, i18n, AI tooling, and marketing pages included.
 
 ## Extensions
@@ -165,12 +172,23 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 - [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
 - [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
+- [modal-layout-component](https://github.com/ArtemZhyto/Modal-layout-component) - Lightweight and accessible headless modal layout for Next.js with focus trapping.
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
-
+- [Vercel AI SDK](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+- [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
+- [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+- [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+- [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
 
+- [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
+- [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+- [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
+- [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+- [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
@@ -207,6 +225,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Taxonomy](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+- [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 
 ## Books
 
@@ -219,26 +238,25 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Videos
 
-* [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
-* [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
-* [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
-* [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
-* [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
-* [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
-* [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
-* [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
-* [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
-* [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
-* [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
-* [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
-* [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
-* [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-* [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
-* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
-* [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
-* [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
-* [How to use Credentials Authentication in Next.js with NextAuth?](https://youtu.be/fqXC2V-MSV4)
-
+- [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+- [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
+- [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
+- [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
+- [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
+- [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
+- [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
+- [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
+- [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
+- [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
+- [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
+- [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
+- [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
+- [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+- [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
+- [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
+- [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
+- [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
+- [How to use Credentials Authentication in Next.js with NextAuth?](https://youtu.be/fqXC2V-MSV4)
 
 ## Projects(Beginner level)
 
@@ -254,11 +272,14 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o&t=4402s)
 - [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg&t=1908s)
 
-
 ## Newsletters
 
 - [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
+
+## Jobs
+
+- [Jobs in JS](https://jobsinjs.com/nextjs-developer-jobs/) - Next.js developer jobs in the US, Canada and UK. Updated daily.
 
 ## Contributing
 
@@ -271,3 +292,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
